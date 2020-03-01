@@ -1,0 +1,2 @@
+# EE599-HW6-Q3
+Add a new method to this class to implement the non-recursive version of DFS algorithm. ● Your function should take a vertex called root as the starting point, and should output a vector containing the nodes that it visits in DFS order.  Example:  Input: The above graph and 0 (root) output: [0, 1, 2, 3, 4, 6, 5] Note that an undirected graph shown above can be converted to a directed graph by adding two opposite edges between each two nodes that are neighbors in the directed graph.
